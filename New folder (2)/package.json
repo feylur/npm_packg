@@ -1,0 +1,25 @@
+{
+  "name": "is-aliahsan",
+  "version": "1.0.0",
+  "description": "is this the name aliahsan",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feylur/npm_packg.git"
+  },
+  "keywords": [
+    "ALIAHSAN"
+  ],
+  "author": "Ali Ahsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feylur/npm_packg/issues"
+  },
+  "homepage": "https://github.com/feylur/npm_packg#readme"
+}
